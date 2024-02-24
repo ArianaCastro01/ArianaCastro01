@@ -18,5 +18,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1200px-Logo_Aseprite.svg.png" title="Aseprite" alt="Aseprite" width="40" height="40"/>&nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianaCastro01&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
